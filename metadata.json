@@ -1,0 +1,8 @@
+{
+  "name": "Queryling",
+  "description": "Master any subject by teaching it. Your AI student awaits.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
